@@ -1,0 +1,4 @@
+Ironhack 
+Name : Michel 
+Age : 28 ans
+Favorite colour : rouge
