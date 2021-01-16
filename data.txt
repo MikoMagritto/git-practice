@@ -1,4 +1,5 @@
 Ironhack 
-Name : Michel 
+Name : Michel
+Surname on Github : MikoMagritto
 Age : 28 ans
 Favorite colour : vert
